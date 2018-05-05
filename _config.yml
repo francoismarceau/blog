@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               François Marceau
+tagline:             Ingénieur ingénieux
+url:                 http://francoismarceau.fr/
 paginate:            1
 baseurl:             ""
 
@@ -19,9 +19,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              François Marceau
+  url:               https://francoismarceau.fr/
+  email:             francois.marceau@gadz.org
 
 # Custom vars
 version:             2.0.0
