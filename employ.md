@@ -3,7 +3,7 @@ layout: page
 title: Embauchez moi !
 ---
 
-## Ingénieur Arts et Métiers et Karlsruher Institut für Technologie
+### Ingénieur Arts et Métiers et Karlsruher Institut für Technologie
 Concepteur chercheur de formation, je m'intéresse à trouver des solutions innovantes. Très curieux, passionné et surtout insatiable, je recherche un environnement de travail flexible qui sache me donner des challenges et l'occasion de toujours apprendre de nouveaux concepts, technologies et métiers.
 
 Je serai ravi de discuter avec vous, n'hésitez pas à me contacter pour prendre un café !
@@ -16,7 +16,7 @@ Je serai ravi de discuter avec vous, n'hésitez pas à me contacter pour prendre
 
 Création d’un simulateur de machine à coudre en réalité virtuelle et étude de faisabillité auprès de Louis Vuitton
 
-### Hackathon avec CNP Assurances (4ème place)
+#### Hackathon avec CNP Assurances (4ème place)
 *mars 2018*
 
 Prototype d’application pour élargir le panel de clients avec une solution bancaire d’épargne automatique en lien avec les nouvelles réglementations
