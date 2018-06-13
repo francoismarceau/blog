@@ -3,10 +3,13 @@ layout: page
 title: Embauchez moi !
 ---
 
+Je m’appelle François Marceau, je suis ingénieur franco-allemand. Passionnément curieux, je travaille sur des problèmes industriels innovants en utilisant des méthodes de design.
+
+
+Je serai ravi de discuter avec vous, n'hésitez pas à me contacter pour prendre un café ! Vous pouvez également [consulter mon CV](https://drive.google.com/open?id=1pH1GggXzKpOv4r0i_2kQoX08RPzERbcW).
+
 ### Ingénieur Arts et Métiers et Karlsruher Institut für Technologie
 Concepteur chercheur de formation, je m'intéresse à trouver des solutions innovantes. Très curieux, passionné et surtout insatiable, je recherche un environnement de travail flexible qui sache me donner des challenges et l'occasion de toujours apprendre de nouveaux concepts, technologies et métiers.
-
-Je serai ravi de discuter avec vous, n'hésitez pas à me contacter pour prendre un café !
 
 
 ### Mes expériences professionnelles
