@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Hackathon Boost the Falcon Xperience : retour sur un outil en réalité Augmentée
+title: Réalité augmentée : la fin des problèmes de conception d'outils complexes ?
 ---
+# Réalité augmentée : la fin des problèmes de conception d'outils complexes ?
 
-En septembre dernier, j'ai été invité par BeMyApp pour participer à un Hackathon avec Dassault. Le sujet, assez vague, concernait l'expérience utilisateur dans les avions de la gamme Falcon. Ce projet a été réalisé dans le cadre d'un hackathon - un sprint de 48h non stop sur la problématique de l'expérience client dans un avion privé.
+En septembre dernier, j'ai été invité par un constructeur d'avions privés pour un sprint design sur l'expérience utilisateur.
 
-## Dassault, les Falcon
+## Les avions privés
 
 Dassault Aviation est un des leaders français et mondiaux en terme d'aviation, que ce soit militaire ou privée. Le constructeur conçoit notamment les Mirages et les Rafales, hautement réputés pour eur qualité et leur maniabilité. De leur expertise dans l'aviation militaire, Dassault produit aussi la gamme Falcon, des avions privés, eux aussi très souvent recommandés par les pilotes, qui ont un choix important dans l'achat de l'avion pour le propriétaire. L'habillage, lui... reste à la française : Pas les lignes américaines trop imposantes, on reste sur une élégance à la française, qui reste aussi très simple.
 
-## Les Falcon sont des avions conçus à l'unité
+## Des avions conçus à l'unité
 
 Contrairement aux constructeurs automobiles, les constructeurs d'avions privés ne peuvent pas se permettre la fabrication en série de nombreux éléments d'habillage. Certains éléments respirent l'artisanat... D'autres plus le bricolage. Du fait du besoin de certifier tous les éléments livrés de série avec les avions (processus couteux, de l'ordre du million d'euros), les équipements cabine sont plus réfléchis avec la norme et les contraintes techniques et technologiques qu'avec l'expérience utilisateur en tête. Mais après tout, à quoi bon : dans la plupart des cas, si le passager vole sans hotesse, c'est par choix. Dans ce cas, peu de chance qu'il aie donc besoin de  se confronter à des difficultés de conception, puisque son hôtesse est là pour ça.
 
@@ -39,4 +40,4 @@ De même, la réalité augmentée est considérablement utilisée dans l'industr
 
 ## La fin des manuels d'utilisation... Mais aussi du travail complexe de conception ?
 
-Le métier d'équipementier avionique est un métier complexe : chaque élément livré dans un avion doit obéir à des certifications très strictes, et devoir resister à des conditions très particulières qui poussent donc à mettre en tâche de fond l'expérience utilisateur. Mon exemple de complémentarité entre des outils complexes à utiliser à cause de leur difficultés de conception et des solutions émergentes comme des guides en réalité augmentée pourrait amener la fin du problème du designer, le devoir de proposer une solution simple d'utilisation, puisqu'il peut devenir, à tout moment et surtout facilement un expert sur le produit grâce à une formation éclair. 
+Le métier d'équipementier avionique est un métier complexe : chaque élément livré dans un avion doit obéir à des certifications très strictes, et devoir resister à des conditions très particulières qui poussent donc à mettre en tâche de fond l'expérience utilisateur. Mon exemple de complémentarité entre des outils complexes à utiliser à cause de leur difficultés de conception et des solutions émergentes comme des guides en réalité augmentée pourrait amener la fin du problème du designer, le devoir de proposer une solution simple d'utilisation, puisqu'il peut devenir, à tout moment et surtout facilement un expert sur le produit grâce à une formation éclair.
