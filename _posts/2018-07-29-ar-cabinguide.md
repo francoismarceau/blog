@@ -8,7 +8,7 @@ En septembre dernier, j'ai été invité par un constructeur d'avions privés po
 
 ## Les avions privés
 
-Dassault Aviation est un des leaders français et mondiaux en terme d'aviation, que ce soit militaire ou privée. Le constructeur conçoit notamment les Mirages et les Rafales, hautement réputés pour eur qualité et leur maniabilité. De leur expertise dans l'aviation militaire, Dassault produit aussi la gamme Falcon, des avions privés, eux aussi très souvent recommandés par les pilotes, qui ont un choix important dans l'achat de l'avion pour le propriétaire. L'habillage, lui... reste à la française : Pas les lignes américaines trop imposantes, on reste sur une élégance à la française, qui reste aussi très simple.
+Ce constructeur est un des leaders français et mondiaux, que ce soit militaire ou privée. Il conçoit notamment des avions militaires, hautement réputés pour leur qualité et leur maniabilité. De leur expertise, il produit aussi une gamme d'avions privés, eux aussi très souvent recommandés par les pilotes, qui ont un choix important dans l'achat de l'avion pour le propriétaire. L'habillage, lui... reste à la française : pas les lignes américaines trop imposantes, on reste sur une élégance à la française, qui reste aussi très simple.
 
 ## Des avions conçus à l'unité
 
