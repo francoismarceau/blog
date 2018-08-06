@@ -4,7 +4,7 @@ title: Réalité augmentée : la fin des problèmes de conception d'outils compl
 ---
 # Réalité augmentée : la fin des problèmes de conception d'outils complexes ?
 
-En septembre dernier, j'ai été invité par un constructeur d'avions privés pour un sprint design sur l'expérience utilisateur.
+Après une prépa scientifique, j'ai commencé un double cursus entre Arts et Métiers ParisTech à Metz, en Conception de Produits Innovants et Méthodes de Production et le Karsrluher Institut für Technologie en Allemagne, en Robotique Industrielle, Systèmes d'Information et Réalité Virtuelle. En septembre dernier, avant de commencer mon mémoire de recherche sur la faisabilité d'un similateur de machine à coudre en réalité virtuelle avec des systèmes à retour de force dans l'industrie de la maroquinerie de luxe, j'ai été invité par un constructeur d'avions pour un hackathon / sprint design afin d'étudier les pistes d'amélioration dans l'expérience utilisateur des passagers de leur gamme d'avions privés. Mon équipe et moi avons remporté ce hackathon en proposant une solution qui aie une vraie réalité opérationnelle, tout en apportant des solutions concrètes à des problèmes existants. Les prototypes développés nous ont permis d'envisager la fin des problèmes de conception d'outils complexes.
 
 ## Des avions privés, conçus à l'unité
 
