@@ -6,13 +6,9 @@ title: Réalité augmentée : la fin des problèmes de conception d'outils compl
 
 En septembre dernier, j'ai été invité par un constructeur d'avions privés pour un sprint design sur l'expérience utilisateur.
 
-## Les avions privés
+## Des avions privés, conçus à l'unité
 
-Ce constructeur est un des leaders français et mondiaux, que ce soit militaire ou privée. Il conçoit notamment des avions militaires, hautement réputés pour leur qualité et leur maniabilité. De leur expertise, il produit aussi une gamme d'avions privés, eux aussi très souvent recommandés par les pilotes, qui ont un choix important dans l'achat de l'avion pour le propriétaire. L'habillage, lui... reste à la française : pas les lignes américaines trop imposantes, on reste sur une élégance à la française, qui reste aussi très simple.
-
-## Des avions conçus à l'unité
-
-Contrairement aux constructeurs automobiles, les constructeurs d'avions privés ne peuvent pas se permettre la fabrication en série de nombreux éléments d'habillage. Certains éléments respirent l'artisanat... D'autres plus le bricolage. Du fait du besoin de certifier tous les éléments livrés de série avec les avions (processus couteux, de l'ordre du million d'euros), les équipements cabine sont plus réfléchis avec la norme et les contraintes techniques et technologiques qu'avec l'expérience utilisateur en tête. Mais après tout, à quoi bon : dans la plupart des cas, si le passager vole sans hotesse, c'est par choix. Dans ce cas, peu de chance qu'il aie donc besoin de  se confronter à des difficultés de conception, puisque son hôtesse est là pour ça.
+Ce constructeur est un des leaders français et mondiaux. Ils conçoivent notamment des avions militaires, hautement réputés pour leur qualité et leur maniabilité. De leur expertise, il produisent aussi une gamme d'avions privés, eux aussi très souvent recommandés par les pilotes, qui ont un choix important dans l'achat de l'avion pour le propriétaire. L'habillage, lui... reste à la française : pas les lignes américaines trop imposantes, on reste sur une élégance à la française, qui reste aussi très simple. Contrairement aux constructeurs automobiles, les constructeurs d'avions privés ne peuvent pas se permettre la fabrication en série de nombreux éléments d'habillage. Certains éléments respirent l'artisanat, d'autres plus le bricolage. Du fait du besoin de certifier tous les éléments livrés de série avec les avions (processus couteux, de l'ordre du million d'euros), les équipements cabine sont plus réfléchis avec la norme et les contraintes techniques et technologiques qu'avec l'expérience utilisateur en tête. Mais après tout, à quoi bon : dans la plupart des cas, si le passager vole sans hotesse, c'est par choix. Dans ce cas, peu de chance qu'il aie donc besoin de  se confronter à des difficultés de conception, puisque son hôtesse est là pour ça.
 
 ## Améliorer l'expérience utilisateur, c'est améliorer le ressenti du client
 
