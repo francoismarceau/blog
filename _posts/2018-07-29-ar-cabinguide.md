@@ -20,7 +20,7 @@ Quand le client a tout, comment différencier la qualité de son vol ? Alors que
 
 ## Le personnel de vol... Pas toujours si qualifié
 
-Le personnel de vol, dans un monde idéal, est affecté à un unique avion : mais dans le monde réel, les hôtesses ne sont jamais des expertes sur le modèle dans lequel elles servent. Dans certains cas, elles font partie d'une flotte commerciale et interviennent sur des modèles différents, de marques différentes... Équipées différemment. Sur des outils créés quasiment à l'unité, il peut-être difficile de s'y retrouver ! Aucune reglementation n'oblige le personnel de vol à être qualifié sur les équipements spécifiques d'un avion privé. La solution Dassault ? Un "Guide Cabine", guide utilisateur de près de 200 pages qui est censé lister tous les besoins d'une hôtesse dans l'intégralité de la cabine.
+Le personnel de vol, dans un monde idéal, est affecté à un unique avion : mais dans le monde réel, les hôtesses ne sont jamais des expertes sur le modèle dans lequel elles servent. Dans certains cas, elles font partie d'une flotte commerciale et interviennent sur des modèles différents, de marques différentes... Équipées différemment. Sur des outils créés quasiment à l'unité, il peut-être difficile de s'y retrouver ! Aucune reglementation n'oblige le personnel de vol à être qualifié sur les équipements spécifiques d'un avion privé. La solution maison ? Un "Guide Cabine", guide utilisateur de près de 200 pages qui est censé lister tous les besoins d'une hôtesse dans l'intégralité de la cabine.
 
 ## Former, de manière intelligente
 
