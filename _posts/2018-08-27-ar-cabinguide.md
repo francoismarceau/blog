@@ -1,3 +1,8 @@
+---
+layout: post
+title: Augmented reality: the end of complex tool design problems?
+---
+
 # Augmented reality: the end of complex tool design problems?
 
 In September 2017, shortly before starting my research thesis in virtual reality, I was invited by an aeronautical manufacturer to a hackathon to study ways to improve the user experience of passengers in their private aircraft range. My team and I won this hackathon with a genuine operational solution that provided concrete solutions to existing problems. The prototypes developed have thus enabled us to envision the reduction or even the end of certain complex tool design problems.
