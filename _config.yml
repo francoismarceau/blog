@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               François Marceau
-tagline:             Ingénieur créatif
-url:                 http://francoismarceau.fr/
+title:               Lucie Montoya et François Marceau
+tagline:             On va se marier !
+url:                 http://marceau.ink/
 paginate:            1
 baseurl:             ""
 
@@ -19,9 +19,9 @@ sass:
 
 # About/contact
 author:
-  name:              François Marceau
-  url:               https://francoismarceau.fr/
-  email:             francois.marceau@gadz.org
+  name:              Lucie Montoya et François Marceau
+  url:               https://marceau.ink/
+  email:             contact@marceau.ink
 
 # Custom vars
 version:             2.0.0
