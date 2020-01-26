@@ -4,6 +4,7 @@ title: Contact
 ---
 
 Lucie et François vont se marier. Venez !
+Je pense à confirmer ma présence avant le 1er mars.
 
 Pour nous contacter tous les deux :
 maison@marceau.ink
