@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title: Contact
 ---
 
 Lucie et François vont se marier. Venez !
