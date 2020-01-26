@@ -5,15 +5,15 @@ title: On va se marier !
 
 Lucie et François vont se marier. Venez !
 
-# Comment venir ?
+## Comment venir ?
 Pour venir, prenez le train ou la voiture
 
-# Programme détaillé
-## Jeudi
+## Programme détaillé
+### Jeudi
 Le jeudi on ne fait rien
 
-## Vendredi
+### Vendredi
 Le vendredi on se marie, eh !
 
-# Logements
+## Logements
 On peut se loger au camping.
