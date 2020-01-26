@@ -7,6 +7,7 @@ Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engage
 
 ![image de nous](/assets/banner.svg)
 
+Ce site a été écrit le 26 janvier 2020, il sera mis à jour régulièrement alors repassez voir de temps en temps jusqu'au jour J.
 Pensez à confirmer votre présence avant le 1er mars.
 
 
@@ -15,16 +16,16 @@ Pensez à confirmer votre présence avant le 1er mars.
 Le jeudi on ne fait rien, ou à la limite on profite !
 
 * 13h - Picnic participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
-* 19h - Picnic participatif au port de menthon Saint Bernard
+* 19h - Picnic participatif au port de Menthon Saint Bernard
 
 ### Vendredi 22
 Le vendredi on se marie, eh !
 
 * 8h - Récupération de la salle du Clos Chevalier
 * 11h - Mariage civil - Mairie de Menthon Saint Bernard
-* 12h - Repas participatif (Raclette)
+* 12h - Repas participatif (Raclette) (prévenir)
 * Aprèm - Activités libres dans la région et/ou installation de la salle
-* 19h - Repas participatif (Curry)
+* 19h - Repas participatif (Curry) (prévenir)
 
 ### Samedi 23
 Le samedi on se marie encore, wha !
@@ -36,7 +37,8 @@ Le samedi on se marie encore, wha !
 * Soirée conviviale dans la continuité de l’après midi
 
 ### Dimanche 25
-* 10h - Brunch
+Le dimanche on range et on se dit à la prochaine !
+* 10h - Brunch participatif (prévenir)
 * Rangement salle
 Départs Progressifs
 
@@ -76,6 +78,9 @@ Nous serons ravis de recevoir des cadeaux de votre part ; le plus beau cadeau re
 Si vous préférez tout de même nous faire un cadeau, n'hésitez pas à consulter la liste de ce qu'on souhaite acquérir pour les 99 prochaines années (à venir).
 
 ## Les familles
+
+
 ## Sondage
-## Quiz
+
+
 ## Livre d’or
