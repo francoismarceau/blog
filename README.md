@@ -3,4 +3,4 @@ Bienvenue sur mon site !
 
 ## Author
 
-**François Marceau**
+**François Marceau** et **Lucie Montoya**
