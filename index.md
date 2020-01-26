@@ -3,8 +3,11 @@ layout: page
 title: On va se marier !
 ---
 
-Lucie et François vont se marier. Venez !  
-Pensez à confirmer ma présence avant le 1er mars.
+Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engager pour la vie. Ainsi, nous souhaitons le célébrer auprès de nos familles et de nos amis. N'hésitez pas à nous rejoindre !
+
+![image de nous](/assets/banner.svg)
+
+Pensez à confirmer votre présence avant le 1er mars.
 
 
 ## Que va-t-il se passer ?
@@ -38,7 +41,7 @@ Le samedi on se marie encore, wha !
 Départs Progressifs
 
 ## Où loger ?
-On peut se loger au camping.
+De nombreux logements sont disponibles à proximité, dans des gammes de prix assez larges.
 * [Camping Horizon à Talloire](http://www.camping-horizon.fr/index.htm) qu'on peut réserver sur [SecureHoliday](https://premium.secureholiday.net/fr/4180/)
 * Camping au Cœur des Prés : 04 50 60 71 87  
 Malheureusement le Camping de Menthon ne sera pas encore ouvert à ces dates là.
@@ -48,7 +51,7 @@ Malheureusement le Camping de Menthon ne sera pas encore ouvert à ces dates là
 
 ## Que faire pendant les temps libres ?
 * Faire des randonnées (Cascade d'Angon, Plateau de Beauregard, Col des Anes...)
-* Visiter le [Chateau Menthon](https://www.chateau-de-menthon.com/)
+* Visiter le [Château Menthon](https://www.chateau-de-menthon.com/)
 * Se balader (ou se baigner !) au bord du Lac d’Annecy (Port de Menthon, Plage de Menthon, tour du lac en vélo, traversée du lac en navette)
 * Visiter Annecy (Galerie commercante Courier, rue commercante rue Carnot, plage et bord du lac, chateau)
 * Faire des jeux
