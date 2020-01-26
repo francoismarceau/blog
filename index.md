@@ -7,7 +7,7 @@ Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engage
 
 ![image de nous](/assets/banner.svg)
 
-Ce site a été écrit le 26 janvier 2020, il sera mis à jour régulièrement alors repassez voir de temps en temps jusqu'au jour J.
+Ce site a été écrit le 26 janvier 2020, il sera mis à jour régulièrement alors repassez voir de temps en temps jusqu'au jour J.  
 Pensez à confirmer votre présence avant le 1er mars.
 
 
@@ -36,7 +36,7 @@ Le samedi on se marie encore, wha !
 * 19h - Repas pour tous (Buffet Traiteur)
 * Soirée conviviale dans la continuité de l’après midi
 
-### Dimanche 25
+### Dimanche 24
 Le dimanche on range et on se dit à la prochaine !
 * 10h - Brunch participatif (prévenir)
 * Rangement salle
@@ -60,9 +60,9 @@ Malheureusement le Camping de Menthon ne sera pas encore ouvert à ces dates là
 
 ## Comment venir ?
 ### Les adresses de destination
-Salle du clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
-Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
-Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
+* Salle du clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
+* Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
+* Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
 
 ### Pour venir
 * En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
