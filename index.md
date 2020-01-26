@@ -12,8 +12,8 @@ Pour venir, prenez le train ou la voiture
 ### Jeudi 21
 Le jeudi on ne fait rien, ou à la limite on profite !
 
-13h - Picnic participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
-19h - Picnic participatif au port de menthon Saint Bernard
+* 13h - Picnic participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
+* 19h - Picnic participatif au port de menthon Saint Bernard
 
 ### Vendredi 22
 Le vendredi on se marie, eh !
@@ -51,7 +51,12 @@ Ou prendre un [Airbnb](https://www.airbnb.fr/s/Menthon~Saint~Bernard--France/hom
 
 Confirmer ma présence (de ... à ...)
 
-
+## Que faire pendant les temps libres ?
+Randonnée (Cascade d'Angon, Plateau de Beauregard, Col des Anes)
+Chateau Menthon
+Lac d’annecy (Port de Menthon, Plage de Menthon, tour du lac en vélo, traversée du lac en navette)
+Annecy (Galerie comercante Courier, rue comercante rue Carnot, plage et bord du lac, chateau)
+Jeux
 
 Pour venir
 Voiture
@@ -64,12 +69,7 @@ Train
 Annecy
 Avion
 Chambéry grenoble geneve
-Sur place
-Randonnée
-Chateau Menthon
-Lac d’annecy
-Annecy
-Jeux
+
 
 
 Géolocalisation
