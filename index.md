@@ -3,7 +3,7 @@ layout: page
 title: On va se marier !
 ---
 
-Lucie et François vont se marier. Venez !
+Lucie et François vont se marier. Venez !  
 Je pense à confirmer ma présence avant le 1er mars.
 
 
