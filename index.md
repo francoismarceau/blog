@@ -12,13 +12,13 @@ Pensez à confirmer votre présence avant le 1er mars.
 
 
 ## Que va-t-il se passer ?
-### Jeudi 21
+### Jeudi 21 mai
 Le jeudi on ne fait rien, ou à la limite on profite !
 
 * 13h - Picnic participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
 * 19h - Picnic participatif au port de Menthon Saint Bernard
 
-### Vendredi 22
+### Vendredi 22 mai
 Le vendredi on se marie, eh !
 
 * 8h - Récupération de la salle du Clos Chevalier
@@ -27,7 +27,7 @@ Le vendredi on se marie, eh !
 * Aprèm - Activités libres dans la région et/ou installation de la salle
 * 19h - Repas participatif (Curry) (prévenir)
 
-### Samedi 23
+### Samedi 23 mai
 Le samedi on se marie encore, wha !
 
 * 11h - Mariage religieux - Eglise de Menthon Saint Bernard
@@ -36,7 +36,7 @@ Le samedi on se marie encore, wha !
 * 19h - Repas pour tous (Buffet Traiteur)
 * Soirée conviviale dans la continuité de l’après midi
 
-### Dimanche 24
+### Dimanche 24 mai
 Le dimanche on range et on se dit à la prochaine !
 * 10h - Brunch participatif (prévenir)
 * Rangement salle
@@ -60,13 +60,13 @@ De nombreux logements sont disponibles à proximité, dans des gammes de prix as
 
 ## Comment venir ?
 ### Les adresses de destination
-* Salle du clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
+* Salle du Clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
 * Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
 * Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
 
 ### Pour venir
 * En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
-covoiturage entre les invités (Tu peux prendre des passagers) (Tu veux trouver un vehicule)
+covoiturage entre les invités (sondage à venir)
 * En bus à destination d'Annecy
 * En train à destination d'Annecy
 * En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
@@ -76,7 +76,6 @@ covoiturage entre les invités (Tu peux prendre des passagers) (Tu veux trouver 
 Nous serons ravis de recevoir des cadeaux de votre part ; le plus beau cadeau reste votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
 
 Si vous préférez tout de même nous faire un cadeau, n'hésitez pas à consulter la liste de ce qu'on souhaite acquérir pour les 99 prochaines années (à venir).
-
 * Des verres (ref à venir)
 * Des beau couteaux (ref à venir, on a déjà un service pour les autres couverts)
 * Du beau linge de maison (ref à venir)
