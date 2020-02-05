@@ -44,9 +44,9 @@ Le dimanche on range et on se dit à la prochaine !
 
 ## Où loger ?
 De nombreux logements sont disponibles à proximité, dans des gammes de prix assez larges.
+* [Camping du Clos Saint Jean](https://www.campingclosdonjean.com/) à Menthon (le plus proche!)
 * [Camping Horizon à Talloire](http://www.camping-horizon.fr/index.htm) qu'on peut réserver sur [SecureHoliday](https://premium.secureholiday.net/fr/4180/)
-* Camping au Cœur des Prés : 04 50 60 71 87  
-Malheureusement le Camping de Menthon ne sera pas encore ouvert à ces dates là.
+* Camping au Cœur des Prés : 04 50 60 71 87
 * Un [Airbnb](https://www.airbnb.fr/s/Menthon~Saint~Bernard--France/homes?refinement_paths%5B%5D=%2Fhomes&current_tab_id=home_tab&selected_tab_id=home_tab&source=mc_search_bar&click_referer=t%3ASEE_ALL%7Csid%3Afd6573b7-eaff-4a36-a0e0-ca05c28d7650%7Cst%3ALANDING_PAGE_MARQUEE&ne_lat=45.90271147982516&ne_lng=6.254606644672208&sw_lat=45.83505848749692&sw_lng=6.169462601703458&zoom=13&search_by_map=true&search_type=unknown&screen_size=large&hide_dates_and_guests_filters=false&checkin=2020-05-21&checkout=2020-05-24&adults=1) à proximité
 * Des [chambres d'hôte](https://www.chambres-hotes.fr/chambres-hotes-search.html?mots_cles=Menthon%20Saint-Bernard&id_ville=32487&lat_lon_centre=45.840794,6.216505&rayon=6&date_arrivee=21%2F05%2F2020&date_depart=24%2F05%2F2020&nb_adultes=1&nb_enfants=0&nb_personnes=1&nb_chambres=1&prix_mini=&prix_maxi=&capa_max_ch_famille=&section_site_default=chambreshotes&s=1)
 * Ou encore une [chambre d'hotel](https://www.viamichelin.fr/web/Hotels?geoboundaries=45.8397429,6.1701107:45.8836155,6.2319088)
@@ -76,6 +76,17 @@ covoiturage entre les invités (Tu peux prendre des passagers) (Tu veux trouver 
 Nous serons ravis de recevoir des cadeaux de votre part ; le plus beau cadeau reste votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
 
 Si vous préférez tout de même nous faire un cadeau, n'hésitez pas à consulter la liste de ce qu'on souhaite acquérir pour les 99 prochaines années (à venir).
+
+* Des verres (ref à venir)
+* Des beau couteaux (ref à venir, on a déjà un service pour les autres couverts)
+* Du beau linge de maison (ref à venir)
+* Des jeux de société (liste de ceux qu'on a à venir)
+* Un studiophoto
+* Des intercom (pour casque de moto)
+* Du matos de camping compact (transportable à moto)
+* De l'aide pour financer notre voyage de noce (cet été, destination encore inconnue)
+* Une invitation à venir vous voir
+
 
 ## Qui sommes nous ?
 Petits arbres généalogiques pour ceux qui ne connaissent qu'un seul d'entre nous :
