@@ -94,7 +94,8 @@ Déjà offerts dans la cagnotte :
 * Des manequins de couture Homme et Femme
 
 ## Qui sommes nous ?
-François, fils de
+
+### François, fils de
 * Pierre Marceau fils de
   * Roger Marceau
   * Claudine Braun
@@ -102,7 +103,7 @@ François, fils de
   * Marc Honoré
   * Claire Dalmaine
 
-Lucie, fille de
+### Lucie, fille de
 * Daniel Montoya, fils de
   * Grégoire Montoya
   * Gabrielle Mullet
