@@ -110,7 +110,7 @@ Lucie, fille de
   * Jacques Arnould
   * Janine Couturier
 
-# Confirmez nous votre venue !
+## Confirmez nous votre venue !
 Dès que vous pouvez, confirmez nous votre venue [par mail](/about).
 
 Pour faciliter votre venue et l'accueil que nous vous réservons, vous pouvez aussi [remplir ce sondage](https://forms.gle/WHTeDyvUgwcKVY9x8) qui nous aidera à avoir une meilleure visibilité sur le planning.
