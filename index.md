@@ -91,7 +91,7 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 * De l'aide pour financer notre voyage de noce (cet été, surement l'Ecosse à moto)
 * Une invitation à venir vous voir
 
-Déjà offerts dans la cagnotte :
+Déjà offerts :
 * Des manequins de couture Homme et Femme
 
 ## Qui sommes nous ?
