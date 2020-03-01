@@ -91,7 +91,7 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 * Une invitation à venir vous voir
 
 Déjà offerts dans la cagnotte :
-* Des manequins de couture ([homme 170€](https://www.rascol.com/A-237022-mannequin-de-couturiere-homme.aspx), [femme 120€](https://www.rascol.com/A-243085-mannequin-de-couture-lucie-taille-36-44.aspx?tracking=Doofinder))
+* Des manequins de couture Homme et Femme
 
 ## Qui sommes nous ?
 François, fils de
