@@ -42,6 +42,20 @@ Le dimanche on range et on se dit à la prochaine !
 * Rangement salle
 * Départs Progressifs
 
+
+## Comment venir ?
+### Les adresses de destination
+* Salle du Clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
+* Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
+* Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
+
+### Pour venir
+* En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
+covoiturage entre les invités (sondage à venir)
+* En bus à destination d'Annecy
+* En train à destination d'Annecy
+* En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
+
 ## Où loger ?
 De nombreux logements sont disponibles à proximité, dans des gammes de prix assez larges.
 * [Camping du Clos Saint Jean](https://www.campingclosdonjean.com/) à Menthon (le plus proche!)
@@ -57,19 +71,6 @@ De nombreux logements sont disponibles à proximité, dans des gammes de prix as
 * Se balader (ou se baigner !) au bord du Lac d’Annecy (Port de Menthon, Plage de Menthon, tour du lac en vélo, traversée du lac en navette)
 * Visiter Annecy (Galerie commercante Courier, rue commercante rue Carnot, plage et bord du lac, chateau)
 * Faire des jeux
-
-## Comment venir ?
-### Les adresses de destination
-* Salle du Clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
-* Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
-* Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
-
-### Pour venir
-* En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
-covoiturage entre les invités (sondage à venir)
-* En bus à destination d'Annecy
-* En train à destination d'Annecy
-* En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
 
 ## Liste de mariage
 Le plus beau cadeau à nous faire est votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
