@@ -74,7 +74,10 @@ covoiturage entre les invités (sondage à venir)
 ## Liste de mariage
 Le plus beau cadeau à nous faire est votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
 
-Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'on souhaite acquérir pour les 99 prochaines années. Pour participer, dites nous ce qui vous motive (pour qu'il n'y ai pas de doublons) et offrez tout ou partie d'un cadeau via la cagnotte.
+Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'on souhaite acquérir pour les 99 prochaines années.
+
+Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir.
+
 
 * Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty)
 * Un stand photo
@@ -88,7 +91,6 @@ Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'o
 * Une invitation à venir vous voir
 
 Payé en partie :
-
 
 Déjà payé dans la cagnotte :
 * Des manequins de couture ([homme 170€](https://www.rascol.com/A-237022-mannequin-de-couturiere-homme.aspx), [femme 120€](https://www.rascol.com/A-243085-mannequin-de-couture-lucie-taille-36-44.aspx?tracking=Doofinder))
