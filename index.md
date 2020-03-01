@@ -95,10 +95,10 @@ Déjà offerts dans la cagnotte :
 
 ## Qui sommes nous ?
 François, fils de
- * Pierre Marceau fils de
+* Pierre Marceau fils de
   * Roger Marceau
   * Claudine Braun
- * Blanche Marceau née Honoré, fille de
+* Blanche Marceau née Honoré, fille de
   * Marc Honoré
   * Claire Dalmaine
 
