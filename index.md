@@ -72,12 +72,11 @@ covoiturage entre les invités (sondage à venir)
 * En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
 
 ## Liste de mariage
-Nous serons ravis de recevoir des cadeaux de votre part ; le plus beau cadeau reste votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
+Le plus beau cadeau à nous faire est votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
 
 Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'on souhaite acquérir pour les 99 prochaines années. Pour participer, dites nous ce qui vous motive (pour qu'il n'y ai pas de doublons) et offrez tout ou partie d'un cadeau via la cagnotte.
 
-Pas encore payé dans la cagnotte :
-* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tnatrix, Kodama, KanaGawa, KillerParty)
+* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty)
 * Un stand photo
 * Une imprimante photo
 * Une imprimante laser
