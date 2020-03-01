@@ -76,7 +76,7 @@ Le plus beau cadeau à nous faire est votre venue pour célébrer avec nous notr
 
 Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'on souhaite acquérir pour les 99 prochaines années.
 
-Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir.
+Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir. Vous pouvez bien évidemment nous offrir une part d'un cadeau pour nous aider à le financer !
 
 
 * [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
