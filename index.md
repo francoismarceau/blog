@@ -103,10 +103,10 @@ François, fils de
   * Claire Dalmaine
 
 Lucie, fille de
- * Daniel Montoya, fils de
+* Daniel Montoya, fils de
   * Grégoire Montoya
   * Gabrielle Mullet
- * Dominique Montoya née Arnould, fille de
+* Dominique Montoya née Arnould, fille de
   * Jacques Arnould
   * Janine Couturier
 
