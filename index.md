@@ -79,24 +79,35 @@ Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'o
 Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir.
 
 
-* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty)
-* Un stand photo
-* Une imprimante photo
-* Une imprimante laser
-* un NAS
 * [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
 * [Un GPS moto 400 €](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/)
-* Du matos de camping compact (transportable à moto)
-* De l'aide pour financer notre voyage de noce (cet été, surement l'ecosse à moto)
+* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty)
+* Du matériel de camping compact pour des road-trips à moto (tente p.ex.)
+* Une imprimante photo
+* Un stand photo (env. 400€ pour du matériel très sérieux)
+* Une imprimante laser
+* un NAS
+* De l'aide pour financer notre voyage de noce (cet été, surement l'Ecosse à moto)
 * Une invitation à venir vous voir
 
-Payé en partie :
-
-Déjà payé dans la cagnotte :
+Déjà offerts dans la cagnotte :
 * Des manequins de couture ([homme 170€](https://www.rascol.com/A-237022-mannequin-de-couturiere-homme.aspx), [femme 120€](https://www.rascol.com/A-243085-mannequin-de-couture-lucie-taille-36-44.aspx?tracking=Doofinder))
 
 ## Qui sommes nous ?
-François fils de Pierre Marceau (fils de Roger Marceau et Clodine Braun) et Blanche Marceau née Honoré (fille de Marc Honoré et Claire Dalmaine)
-Lucie fille de Daniel Montoya (Fils de Grégoire Montoya et Gabrielle ) et Dominique Montoya née Arnould (fille de Jacques Arnould et Janine Couturier)
+François, fils de
+ * Pierre Marceau fils de
+  * Roger Marceau
+  * Claudine Braun
+ * Blanche Marceau née Honoré, fille de
+  * Marc Honoré
+  * Claire Dalmaine
+
+Lucie, fille de
+ * Daniel Montoya, fils de
+  * Grégoire Montoya
+  * Gabrielle Mullet
+ * Dominique Montoya née Arnould, fille de
+  * Jacques Arnould
+  * Janine Couturier
 
 ## Sondage
