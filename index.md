@@ -7,8 +7,8 @@ Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engage
 
 ![image de nous](/assets/banner.svg)
 
-Ce site a été mis à jour pour la dernière fois le 26 janvier 2020. Repassez voir de temps en temps jusqu'au jour J.  
-Pensez à confirmer votre présence avant le 1er mars.
+Ce site a été mis à jour pour la dernière fois le 26 février 2020. Repassez voir de temps en temps jusqu'au jour J.  
+Pensez à [confirmer votre présence]() !
 
 
 ## Que va-t-il se passer ?
@@ -72,27 +72,30 @@ covoiturage entre les invités (sondage à venir)
 * En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
 
 ## Liste de mariage
-
 Nous serons ravis de recevoir des cadeaux de votre part ; le plus beau cadeau reste votre venue pour célébrer avec nous notre mariage et nous suffit amplement.
 
-Si vous préférez tout de même nous faire un cadeau, n'hésitez pas à consulter la liste de ce qu'on souhaite acquérir pour les 99 prochaines années (à venir).
-* Des verres (ref à venir)
-* Des beau couteaux (ref à venir, on a déjà un service pour les autres couverts)
-* Du beau linge de maison (ref à venir)
-* Des jeux de société (liste de ceux qu'on a à venir)
-* Un studiophoto
-* Des intercom (pour casque de moto)
+Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'on souhaite acquérir pour les 99 prochaines années. Pour participer, dites nous ce qui vous motive (pour qu'il n'y ai pas de doublons) et offrez tout ou partie d'un cadeau via la cagnotte.
+
+Pas encore payé dans la cagnotte :
+* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tnatrix, Kodama, KanaGawa, KillerParty)
+* Un stand photo
+* Une imprimante photo
+* Une imprimante laser
+* un NAS
+* [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
+* [Un GPS moto 400 €](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/)
 * Du matos de camping compact (transportable à moto)
-* De l'aide pour financer notre voyage de noce (cet été, destination encore inconnue)
+* De l'aide pour financer notre voyage de noce (cet été, surement l'ecosse à moto)
 * Une invitation à venir vous voir
 
+Payé en partie :
+
+
+Déjà payé dans la cagnotte :
+* Des manequins de couture ([homme 170€](https://www.rascol.com/A-237022-mannequin-de-couturiere-homme.aspx), [femme 120€](https://www.rascol.com/A-243085-mannequin-de-couture-lucie-taille-36-44.aspx?tracking=Doofinder))
 
 ## Qui sommes nous ?
-Petits arbres généalogiques pour ceux qui ne connaissent qu'un seul d'entre nous :
-
-
+François fils de Pierre Marceau (fils de Roger Marceau et Clodine Braun) et Blanche Marceau née Honoré (fille de Marc Honoré et Claire Dalmaine)
+Lucie fille de Daniel Montoya (Fils de Grégoire Montoya et Gabrielle ) et Dominique Montoya née Arnould (fille de Jacques Arnould et Janine Couturier)
 
 ## Sondage
-
-
-## Livre d’or
