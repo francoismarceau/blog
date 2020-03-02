@@ -79,7 +79,7 @@ Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'o
 
 Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir. Vous pouvez bien évidemment nous offrir une part d'un cadeau pour nous aider à le financer !
 
-
+* une machine à coudre industrielle Juki DL5550-N (300€, déjà achetée pour confectionner nos tenues)
 * [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
 * [Un GPS moto](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/) 400 €
 * Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty) 10 à 40€
@@ -90,6 +90,7 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 * un NAS
 * De l'aide pour financer notre voyage de noce (cet été, surement l'Ecosse à moto)
 * Une invitation à venir vous voir
+* Un pare-choc pour notre kangoo de location (oups!)
 
 Déjà offerts :
 * Des mannequins de couture Homme et Femme
