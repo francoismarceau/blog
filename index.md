@@ -7,16 +7,16 @@ Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engage
 
 ![image de nous](/assets/banner.svg)
 
-Ce site a été mis à jour pour la dernière fois le 26 février 2020. Repassez voir de temps en temps jusqu'au jour J.  
-Pensez à [confirmer votre présence]() !
+Ce site a été mis à jour pour la dernière fois le 1er mars 2020. Repassez voir de temps en temps jusqu'au jour J.  
+Pensez à [confirmer votre présence](https://forms.gle/WHTeDyvUgwcKVY9x8) !
 
 
 ## Que va-t-il se passer ?
 ### Jeudi 21 mai
 Le jeudi on ne fait rien, ou à la limite on profite !
 
-* 13h - Picnic participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
-* 19h - Picnic participatif au port de Menthon Saint Bernard
+* 13h - Pique-nique participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
+* 19h - Pique-nique participatif au port de Menthon Saint Bernard
 
 ### Vendredi 22 mai
 Le vendredi on se marie, eh !
@@ -51,10 +51,10 @@ Le dimanche on range et on se dit à la prochaine !
 
 ### Pour venir
 * En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
-covoiturage entre les invités (sondage à venir)
+covoiturage entre les invités (dans le sondage)
 * En bus à destination d'Annecy
 * En train à destination d'Annecy
-* En avion à destination de Chambéry, Grenoble ou Genève (prévenez-nous pour organiser les derniers km)
+* En avion à destination de Chambéry, Grenoble ou Genève
 
 ## Où loger ?
 De nombreux logements sont disponibles à proximité, dans des gammes de prix assez larges.
@@ -81,8 +81,8 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 
 
 * [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
-* [Un GPS moto 400 €](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/)
-* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty)
+* [Un GPS moto](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/) 400 €
+* Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty) 10 à 40€
 * Du matériel de camping compact pour des road-trips à moto (tente p.ex.)
 * Une imprimante photo
 * Un stand photo (env. 400€ pour du matériel très sérieux)
@@ -92,7 +92,7 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 * Une invitation à venir vous voir
 
 Déjà offerts :
-* Des manequins de couture Homme et Femme
+* Des mannequins de couture Homme et Femme
 
 ## Qui sommes nous ?
 François, fils de
@@ -112,6 +112,6 @@ Lucie, fille de
   * Janine Couturier
 
 ## Confirmez nous votre venue !
-Dès que vous pouvez, confirmez nous votre venue [par mail](/contact).
+Dès que vous pouvez, confirmez nous votre venue [par mail ou sms](/contact).
 
 Pour faciliter votre venue et l'accueil que nous vous réservons, vous pouvez aussi [remplir ce sondage](https://forms.gle/WHTeDyvUgwcKVY9x8) qui nous aidera à avoir une meilleure visibilité sur le planning.
