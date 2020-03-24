@@ -3,9 +3,14 @@ layout: page
 title: On va se marier !
 ---
 
+**En raison de la pandémie COVID-19, il se peut que le planning soit chamboulé. [Plus d'infos ici](/pandemic).**
+
+
 Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engager pour la vie. Ainsi, nous souhaitons le célébrer auprès de nos familles et de nos amis. N'hésitez pas à nous rejoindre !
 
-![image de nous](/assets/banner.svg)
+
+
+![image de nous](/assets/banner_pandemic.svg)
 
 Ce site a été mis à jour pour la dernière fois le 1er mars 2020. Repassez voir de temps en temps jusqu'au jour J.  
 Pensez à [confirmer votre présence](https://forms.gle/WHTeDyvUgwcKVY9x8) !
