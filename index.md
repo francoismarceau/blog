@@ -12,7 +12,7 @@ Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engage
 
 ![image de nous](/assets/banner_pandemic.svg)
 
-Ce site a été mis à jour pour la dernière fois le 1er mars 2020. Repassez voir de temps en temps jusqu'au jour J.  
+Ce site a été mis à jour pour la dernière fois le 24 mars 2020. Repassez voir de temps en temps jusqu'au jour J.  
 Pensez à [confirmer votre présence](https://forms.gle/WHTeDyvUgwcKVY9x8) !
 
 
