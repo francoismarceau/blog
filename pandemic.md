@@ -7,7 +7,7 @@ Bonjour à tous !
 
 
 Toutes nos questions actuelles tournent autour de la pandémie, et c’est bien naturel. Nous suivons de près le [calendrier gouvernemental](https://www.gouvernement.fr/info-coronavirus) :
-* 29 février : passage du stade 1 au stade 2 et limitation des rassemblements à 5000 personnes.
+* 29 février : limitation des rassemblements à 5000 personnes et passage du stade 1 au stade 2.
 * 8 mars : limitation des rassemblements à 1000 personnes
 * 12-13-14 mars : limitation des rassemblements à 100 personnes et passage du stade 2 au stade 3 (fin entre le 11 mai et le 21 juin)
 * 16 mars début du confinement (fin entre le 31 mars et le 21 avril)
