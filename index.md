@@ -3,60 +3,84 @@ layout: page
 title: On va se marier !
 ---
 
-**En raison de la pandémie COVID-19, il se peut que le planning soit chamboulé. [Plus d'infos ici](/pandemic).**
+**Qu'est ce qui se passe avec le COVID-19 ? [Plus d'infos ici](/pandemic).**
 
 
-Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engager pour la vie. Ainsi, nous souhaitons le célébrer auprès de nos familles et de nos amis. N'hésitez pas à nous rejoindre !
+Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engager pour la vie. Ainsi, nous souhaitons le célébrer auprès de nos familles et de nos amis. Mais le contexte sanitaire et politique change le programme !
 
 
 
 ![image de nous](/assets/banner_pandemic.svg)
 
-Ce site a été mis à jour pour la dernière fois le 24 mars 2020. Repassez voir de temps en temps jusqu'au jour J.  
-Pensez à [confirmer votre présence](https://forms.gle/WHTeDyvUgwcKVY9x8) !
+Ce site a été mis à jour pour la dernière fois le 22 avril 2020. Repassez voir de temps en temps jusqu'au jour J.  
+Pensez à [confirmer votre présence](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link) !
+
+
+##En résumé :
+La fête à 200 cette année n’est pas possible, et nous n’aurons pas la salle pour le faire cette année.
+* Nous allons tout de même nous marier au moins civilement cette année devant nos parents, frères, sœurs et nos témoins.
+* Nous allons essayer de voir ceux qui viendront quand même dans la région, suivant ce que permettra le dé-confinement.
+* On renouvelle notre invitation à fêter notre mariage avec nous dans un an le **22 mai 2021** ! (toujours à Menthon Saint Bernard)
+
+Pour vous aider à savoir quoi faire, on vous a préparé un gros diagramme.
+![gros diagramme](/assets/diagramme.svg)
+
+Une fois que vous saurez, vous pouvez nous dire si vous venez cette année et l'an prochain dans [ce sondage en deux questions](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link). Ou en nous contactant directement.
 
 
 ## Que va-t-il se passer ?
-### Jeudi 21 mai
-Le jeudi on ne fait rien, ou à la limite on profite !
+Et bien… On ne sait pas ! Tant qu’on a pas d’info sur la limite des rassemblement, on part du principe que le programme qui suit sera avec nos parents, nos frères et soeurs et nos témoins. (25 personnes)
+Si on a légalement le droit à plus et si vous êtes dans le coin, on se fera un plaisir de vous retrouver.
 
-* 13h - Pique-nique participatif en montagne (Cascade d’angon/ Beauregard/ Col des Anes suivant météo)
-* 19h - Pique-nique participatif au port de Menthon Saint Bernard
+### Jeudi 21 mai
+Confinement.
 
 ### Vendredi 22 mai
-Le vendredi on se marie, eh !
-
-* 8h - Récupération de la salle du Clos Chevalier
-* 11h - Mariage civil - Mairie de Menthon Saint Bernard
-* 12h - Repas participatif (Raclette) (prévenir)
-* Aprèm - Activités libres dans la région et/ou installation de la salle
-* 19h - Repas participatif (Curry) (prévenir)
+* 11h - Mariage civil à la Mairie de Menthon Saint Bernard
+* 12h - On mange ensemble !
+* Aprèm : Jeux d’extérieur, Jeux de société, Papotage, Thé…
 
 ### Samedi 23 mai
-Le samedi on se marie encore, wha !
-
-* 11h - Mariage religieux - Eglise de Menthon Saint Bernard
-* 12h - Repas pour tous (Buffet Traiteur)
-* Aprèm : Jeux d'extérieur, Jeux de société, Dance, Papotage, Thé illimité, Bar à Cocktail, Surprises...
-* 19h - Repas pour tous (Buffet Traiteur)
-* Soirée conviviale dans la continuité de l’après midi
+Le samedi on se marie, peut être...
+* 11h - Mariage religieux dans l’Église de Menthon Saint Bernard (inch’allah)
+* 12h - On mange ensemble !
+* Aprèm : Jeux d’extérieur, Jeux de société, Papotage, Thé…
 
 ### Dimanche 24 mai
-Le dimanche on range et on se dit à la prochaine !
-* 10h - Brunch participatif (prévenir)
-* Rangement salle
-* Départs Progressifs
+Le dimanche on range et on se dit à l’année prochaine!
+* 10h - Brunch
+
+
+Par contre l’an prochain, tout le monde est invité, on sera en mesure d’accueillir nos amis et notre famille au complet.
+
+### Samedi 22 mai 2021
+Le samedi on fait la fête, eh !
+* 11h - Mariage religieux (si pas fait en 2020) ou cérémonie de renouvellement des voeux dans l'Église de Menthon Saint Bernard
+* 12h - Repas pour tous
+* Aprèm : Jeux d’extérieur, Jeux de société, Danse, Papotage, Thé, Bar à Cocktail, Surprises…
+* 19h - Repas pour tous
+* Soirée conviviale dans la continuité de l’après midi
+
+### Dimanche 23 mai 2021
+Le dimanche on ne fait rien, ou à la limite on profite !
+* 13h - Pique-nique participatif en montagne (Cascade d’Angon /  Beauregard / Col des  nes suivant météo)
+* 19h - Pique-nique participatif au port de Menthon Saint Bernard
+
+### Lundi 24 mai 2021 (férié)
+Le Lundi on range et on se dit à la prochaine !
+* 10h - Brunch !
 
 
 ## Comment venir ?
 ### Les adresses de destination
-* Salle du Clos Chevalier (du vendredi au dimanche) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard  
-* Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
-* Eglise Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard  
+* Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard
+* Église Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard
+* Salle du Clos Chevalier (pour 2021) : 195 Allée du Clos Chevalier, 74290 Menthon-Saint-Bernard
+
 
 ### Pour venir
 * En voiture avec [Google Maps](https://www.google.fr/maps/dir//74290+Menthon-Saint-Bernard/@45.8605377,6.1597176,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x478b9192898904af:0x408ab2ae4ba9c80!2m2!1d6.194737!2d45.860543!3e0) ou en
-covoiturage entre les invités (dans le sondage)
+covoiturage entre les invités
 * En bus à destination d'Annecy
 * En train à destination d'Annecy
 * En avion à destination de Chambéry, Grenoble ou Genève
@@ -71,10 +95,10 @@ De nombreux logements sont disponibles à proximité, dans des gammes de prix as
 * Ou encore une [chambre d'hotel](https://www.viamichelin.fr/web/Hotels?geoboundaries=45.8397429,6.1701107:45.8836155,6.2319088)
 
 ## Que faire pendant les temps libres ?
-* Faire des randonnées (Cascade d'Angon, Plateau de Beauregard, Col des Anes...)
+* Faire des randonnées (Cascade d'Angon, Plateau de Beauregard, Col des Ânes...)
 * Visiter le [Château de Menthon](https://www.chateau-de-menthon.com/)
 * Se balader (ou se baigner !) au bord du Lac d’Annecy (Port de Menthon, Plage de Menthon, tour du lac en vélo, traversée du lac en navette)
-* Visiter Annecy (Galerie commercante Courier, rue commercante rue Carnot, plage et bord du lac, chateau)
+* Visiter Annecy (Galerie commerçante Courier, rue commerçante rue Carnot, plage et bord du lac, chateau)
 * Faire des jeux
 
 ## Liste de mariage
@@ -119,5 +143,4 @@ Lucie, fille de
 
 ## Confirmez nous votre venue !
 Dès que vous pouvez, confirmez nous votre venue [par mail ou sms](/contact).
-
-Pour faciliter votre venue et l'accueil que nous vous réservons, vous pouvez aussi [remplir ce sondage](https://forms.gle/WHTeDyvUgwcKVY9x8) qui nous aidera à avoir une meilleure visibilité sur le planning.
+Ou en répondant à [ce sondage en deux questions](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link).
