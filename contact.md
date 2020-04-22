@@ -12,4 +12,4 @@ Pour nous contacter tous les deux : [maison@marceau.ink](mailto:maison@marceau.i
 Lucie : 06 95 75 91 71  
 François : 06 52 20 15 67
 
-Pour faciliter votre venue et l'accueil que nous vous réservons, vous pouvez aussi [remplir ce sondage](https://forms.gle/WHTeDyvUgwcKVY9x8) qui nous aidera à avoir une meilleure visibilité sur le planning.
+Pour faciliter votre venue et l'accueil que nous vous réservons, vous pouvez aussi  [confirmer votre présence](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link) pour cette année et l'an prochain.
