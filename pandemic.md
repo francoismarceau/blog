@@ -17,4 +17,4 @@ Toutes nos questions actuelles tournent autour de la pandémie, et c’est bien 
 Dans ce cadre, pas de mariage ni religieux ni civil ni religieux cette année, tout est reporté quasiment à l'identique pour l'an prochain. Nous renouvelons notre invitation pour une grosse fête **tous ensemble** sur 3 jours les **22-23-24 mai 2021** (lundi de pentecôte) !
 
 
-On se fait une joie de vois voir alors prenez soin de vous vous <3
+On se fait une joie de vous voir alors prenez soin de vous vous <3

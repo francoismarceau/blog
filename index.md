@@ -15,7 +15,7 @@ Ce site a été mis à jour pour la dernière fois le 23 mai 2020 (A-1). Repasse
 Pensez à confirmer votre présence dès que vous le pourrez [par mail ou sms](/contact). Le sondage de confirmation est en cours de re-création et vous sera envoyé 6mois avant le jour J.
 
 
-##En résumé :
+## En résumé :
 Le mariage civil ou religieux n’est pas possible en 2020. Et on renouvelle notre invitation à fêter notre mariage avec nous dans un an le **22 mai 2021** !
 
 
