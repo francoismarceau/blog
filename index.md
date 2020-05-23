@@ -9,62 +9,35 @@ title: On va se marier !
 Après 4 ans de vie commune, nous avons décidé de nous marier pour nous engager pour la vie. Ainsi, nous souhaitons le célébrer auprès de nos familles et de nos amis. Mais le contexte sanitaire et politique change le programme !
 
 
-
 ![image de nous](/assets/banner_pandemic.svg)
 
-Ce site a été mis à jour pour la dernière fois le 22 avril 2020. Repassez voir de temps en temps jusqu'au jour J.  
-Pensez à [confirmer votre présence](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link) !
+Ce site a été mis à jour pour la dernière fois le 23 mai 2020 (A-1). Repassez voir de temps en temps jusqu'au jour J.  
+Pensez à confirmer votre présence dès que vous le pourrez [par mail ou sms](/contact). Le sondage de confirmation est en cours de re-création et vous sera envoyé 6mois avant le jour J.
 
 
 ##En résumé :
-La fête à 200 cette année n’est pas possible, et nous n’aurons pas la salle pour le faire cette année.
-* Nous allons tout de même nous marier au moins civilement cette année devant nos parents, frères, sœurs et nos témoins.
-* Nous allons essayer de voir ceux qui viendront quand même dans la région, suivant ce que permettra le dé-confinement.
-* On renouvelle notre invitation à fêter notre mariage avec nous dans un an le **22 mai 2021** ! (toujours à Menthon Saint Bernard)
-
-Pour vous aider à savoir quoi faire, on vous a préparé un gros diagramme.
-![gros diagramme](/assets/diagramme.svg)
-
-Une fois que vous saurez, vous pouvez nous dire si vous venez cette année et l'an prochain dans [ce sondage en deux questions](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link). Ou en nous contactant directement.
+Le mariage civil ou religieux n’est pas possible en 2020. Et on renouvelle notre invitation à fêter notre mariage avec nous dans un an le **22 mai 2021** !
 
 
 ## Que va-t-il se passer ?
-Et bien… On ne sait pas ! Tant qu’on a pas d’info sur la limite des rassemblement, on part du principe que le programme qui suit sera avec nos parents, nos frères et soeurs et nos témoins. (25 personnes)
-Si on a légalement le droit à plus et si vous êtes dans le coin, on se fera un plaisir de vous retrouver.
 
-### Jeudi 21 mai
-Confinement.
-
-### Vendredi 22 mai
-* 11h - Mariage civil à la Mairie de Menthon Saint Bernard
-* 12h - On mange ensemble !
+### Samedi 22 mai
+Le samedi on se marie youpi !
+* 10h - Mariage civil à la Mairie de Menthon Saint Bernard
+* 11h - Mariage religieux dans l’Église de Menthon Saint Bernard
+* 13h - On mange ensemble !
 * Aprèm : Jeux d’extérieur, Jeux de société, Papotage, Thé…
-
-### Samedi 23 mai
-Le samedi on se marie, peut être...
-* 11h - Mariage religieux dans l’Église de Menthon Saint Bernard (inch’allah)
-* 12h - On mange ensemble !
-* Aprèm : Jeux d’extérieur, Jeux de société, Papotage, Thé…
-
-### Dimanche 24 mai
-Le dimanche on range et on se dit à l’année prochaine!
-* 10h - Brunch
-
-
-Par contre l’an prochain, tout le monde est invité, on sera en mesure d’accueillir nos amis et notre famille au complet.
-
-### Samedi 22 mai 2021
-Le samedi on fait la fête, eh !
-* 11h - Mariage religieux (si pas fait en 2020) ou cérémonie de renouvellement des voeux dans l'Église de Menthon Saint Bernard
-* 12h - Repas pour tous
-* Aprèm : Jeux d’extérieur, Jeux de société, Danse, Papotage, Thé, Bar à Cocktail, Surprises…
-* 19h - Repas pour tous
+* 19h - On mange ensemble !
 * Soirée conviviale dans la continuité de l’après midi
 
-### Dimanche 23 mai 2021
-Le dimanche on ne fait rien, ou à la limite on profite !
-* 13h - Pique-nique participatif en montagne (Cascade d’Angon /  Beauregard / Col des  nes suivant météo)
-* 19h - Pique-nique participatif au port de Menthon Saint Bernard
+
+### Dimanche 23 mai
+Le dimanche on profite !
+* 12h - On mange ensemble !
+* Aprèm : Jeux d’extérieur, Jeux de société, Papotage, Thé, Ballades...
+* 19h - On mange ensemble !
+* Soirée conviviale dans la continuité de l’après midi
+
 
 ### Lundi 24 mai 2021 (férié)
 Le Lundi on range et on se dit à la prochaine !
@@ -72,6 +45,7 @@ Le Lundi on range et on se dit à la prochaine !
 
 
 ## Comment venir ?
+
 ### Les adresses de destination
 * Mairie de Menthon Saint Bernard (Vendredi 11h) : 284 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard
 * Église Saint Bernard de Menthon (Samedi 11h) : 390 Rue Saint-Bernard, 74290 Menthon-Saint-Bernard
@@ -108,8 +82,6 @@ Si vous préférez tout de même nous faire un cadeau, voici la liste de ce qu'o
 
 Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/pools/c/8mKyJgbJcC) et dites nous ce que vous souhaiteriez nous offrir. Vous pouvez bien évidemment nous offrir une part d'un cadeau pour nous aider à le financer !
 
-* une machine à coudre industrielle Juki DL5550-N (300€, déjà achetée pour confectionner nos tenues)
-* [Des intercom](https://www.speedway.fr/194519-kit-bluetooth-cardo-scala-rider-freecom-4-duo.html) pour casque de moto 415€
 * [Un GPS moto](https://www.tomtom.com/fr_fr/drive/motorcycle/products/rider-550/) 400 €
 * Des jeux de société (on a déjà : Carcasonne, Patchwork,Through the ages, Citadelle, Pizza time, Cromino, Tantrix, Kodama, KanaGawa, KillerParty) 10 à 40€
 * Du matériel de camping compact pour des road-trips à moto (tente p.ex.)
@@ -119,10 +91,11 @@ Pour participer, [faites un don sur notre cagnotte Paypal](https://paypal.me/poo
 * un NAS
 * De l'aide pour financer notre voyage de noce (cet été, surement l'Ecosse à moto)
 * Une invitation à venir vous voir
-* Un pare-choc pour notre kangoo de location (oups!)
 
 Déjà offerts :
 * Des mannequins de couture Homme et Femme
+* Une machine à coudre industrielle Juki DL5550-N
+* Des intercom (mini talki-walky pour se parler à moto)
 
 ## Qui sommes nous ?
 François, fils de
@@ -143,4 +116,4 @@ Lucie, fille de
 
 ## Confirmez nous votre venue !
 Dès que vous pouvez, confirmez nous votre venue [par mail ou sms](/contact).
-Ou en répondant à [ce sondage en deux questions](https://docs.google.com/forms/d/e/1FAIpQLScYT0rV9Enf2myDoLE5mVnJNy8qGxbD27JnDLs2kgbEgZYQFg/viewform?usp=sf_link).
+Un sondage plus précis est en préparation et vous sera envoyé 6 mois avant.
